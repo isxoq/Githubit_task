@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [\App\Http\Controllers\IndexController::class, "index"]);
+Route::get('/client/orders/{id}', [\App\Http\Controllers\IndexController::class, "orders"])->name("orders");
