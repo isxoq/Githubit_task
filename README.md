@@ -2,7 +2,7 @@
 
 ## Task
 
-Ushbu proyekt Githibut kompaniyasi uchun test sifatida tayyorlangan
+Ushbu proyekt GITHUBIT kompaniyasi uchun test sifatida tayyorlangan
 
 
 ## Proyektni ishlatish:
